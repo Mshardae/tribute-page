@@ -1,0 +1,52 @@
+body {
+    background-color: purple;
+    color: white;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+}
+
+.first-section {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    text-align: center;
+}
+
+.second-section {
+    text-align: center;
+}
+
+.pics2 {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+#stages {
+    border: 2px;
+    border-color: black;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: row;
+    gap: 4em;
+}
+
+.fourth-section {
+    text-align: center;
+}
+
+.fifth-section {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    gap: 7em;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+}
